@@ -20,6 +20,7 @@
         <module>billing-microservices/service-abonnements</module>
         <module>billing-microservices/service-facturation</module>
         <module>billing-microservices/service-clients</module>
+        <module>billing-microservices/config-server</module>
     </modules>
 
     <!-- Versions -->
