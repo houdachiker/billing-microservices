@@ -1,0 +1,5 @@
+@"
+target/
+.idea/
+*.iml
+"@ | Out-File -Encoding ascii .gitignore
